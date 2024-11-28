@@ -8,7 +8,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Edukasi from "./Pages/Edukasi";
 import Limbah from "./Pages/Limbah";
 
-
 function App() {
   return (
     <BrowserRouter>
